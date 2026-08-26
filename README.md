@@ -1,8 +1,8 @@
 # Lean formalization: non-left-properness of multipointed d-spaces
 
 This project contains a Lean 4 formalization of the logical and elementary
-topological core of the counterexample to left properness of the
-q-model structure of multipointed d-spaces https://doi.org/10.48550/arXiv.2608.13151.
+topological core of the [counterexample to left properness of the
+q-model structure of multipointed d-spaces](https://doi.org/10.48550/arXiv.2608.13151).
 
 ## Scope
 
